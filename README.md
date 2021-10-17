@@ -1,5 +1,7 @@
 Smart Contract Audit
 ===============================================================================
+Syntax Based Smart Contract Bug, Exploit Finder And Simple Patcher Modified From Grep Rough Audit - Source Code Auditing Tool
+
 Smart Contract Audit is a simple script and signature sets that allows you to find potential 
 security flaws in source code using the GNU utility grep. It's comparable to 
 other static analysis applications like RATS, SWAAT and flaw-finder while 
