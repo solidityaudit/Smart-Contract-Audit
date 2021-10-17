@@ -1,5 +1,5 @@
 Smart Contract Audit
-smart-contracts smartcontracts smart-contract smartcontract smart-contracts-audit smart-contract-security smartcontract-security 
+
 ===============================================================================
 Syntax Based Smart Contract Bug, Exploit Finder And Simple Patcher Modified From Grep Rough Audit - Source Code Auditing Tool
 
@@ -15,3 +15,5 @@ Credits
 ===============================================================================
   * Wireghoul - http://www.justanotherhacker.com
   * Various others - see Changelog
+
+smart-contracts smartcontracts smart-contract smartcontract smart-contracts-audit smart-contract-security smartcontract-security 
